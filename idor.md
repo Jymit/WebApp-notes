@@ -21,6 +21,6 @@ There can be many variables in the application such as “id”, “pid”, “u
 
 #### tools?
 - Burp Suite. Extender, bApp store:
-- Autorize 
-- AutoRepeater
+- Autorize https://github.com/portswigger/autorize
+- AutoRepeater https://github.com/PortSwigger/auto-repeater
 - https://youtu.be/3K1-a7dnA60?t=107
