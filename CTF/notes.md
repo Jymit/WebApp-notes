@@ -7,6 +7,20 @@ https://gchq.github.io/CyberChef/#recipe=From_Base64('A-Za-z0-9%2B/%3D',true,fal
 ### for
 
 #### stegonagraphy
+```
+/Users/<user>/Downloads/Image-ExifTool-12.49/exiftool SinglePirate.jpeg
+
+brew install binwalk
+binwalk SinglePirate.jpeg (meh, check usecase)
+brew install tesseract 
+(meh, check usecase)
+
+1. https://stegonline.georgeom.net/image
+
+2. strings SinglePirate.jpeg
+> flag found!
+```
+
 
 #### disasm
 - disassembly of file to find flags v1, v2 for grepping thru the needful output
