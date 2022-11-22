@@ -73,6 +73,7 @@ SELECT * FROM users WHERE username=''-- '
 #### Cross Site Request Forgery or CSRF
 
 #### Cross Site Scripting or XSS 
+Steal cookies 
 
 Reflected XSS
 https://ctfmadeurl.org/?data=%3Cscript%3Ealert(1)%3C/script%3E
